@@ -1,0 +1,5 @@
+*.DS_Store
+*.png
+networks/GP-example/AnytownModify/*.txt
+networks/GP-example/AnytownModify/*_temp.inp
+*.asv

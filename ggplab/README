@@ -1,0 +1,23 @@
+--------------------------------------------------------
+GGPLAB: A Matlab Toolbox for Geometric Programs
+--------------------------------------------------------
+Copyright (C) 2005-06 Almir Mutapcic  Kwangmoo Koh    
+                      Seungjean Kim   Stephen Boyd
+--------------------------------------------------------
+
+Thank you for downloading GGPLAB. Please see the documentation
+of ggplab, gpcvx, and gpposy, located in doc directory, for information
+on how to use this toolbox.
+
+Files of interest:
+    doc/ggplab.pdf:      documentation of ggplab object library
+    doc/gpcvx.pdf:       documentation of gpcvx.m
+    doc/gpposy.pdf:      documentation of gpposy.m
+    examples_ggplab/:    toolbox usage examples
+    examples_gpsolver/:  solver usage examples
+    gpcvx.m:             solver for GPs in convex form
+    gpposy.m:            solver for GPs in posynomial form
+    gppd2.m:             internal solver called by gpcvx
+
+--------------------------------------------------------
+GGPLAB is distributed under the GNU General Public License
